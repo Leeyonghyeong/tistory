@@ -1,0 +1,4 @@
+django
+pillow
+django-social-share
+django-taggit
